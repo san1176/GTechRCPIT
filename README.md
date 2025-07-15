@@ -25,7 +25,7 @@ We are currently in **Phase 1** of the project, where the **UI screens have been
 
 You can try the app on your Android device using the link below:
 
-[**⬇️ Download GTechRCPIT APK**]()
+[**⬇️ Download GTechRCPIT APK**](https://drive.google.com/file/d/1_rqs_2B2YQ5hNz4qr7B4UII5C2yR0lac/view?usp=sharing)
 
 > ⚠️ Make sure to enable "Install from unknown sources" in your phone settings before installing.
 
